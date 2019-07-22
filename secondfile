@@ -1,3 +1,7 @@
 This is second file created in the first session.
 Again New line and delete the previous one
+<<<<<<< HEAD
 Added a new line without doing a pull
+=======
+Trying another branch push
+>>>>>>> 0d333109ff430114141f6e2cdffe745a26ed577a
