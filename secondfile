@@ -1,4 +1,8 @@
 This is second file created in the first session.
 Again New line and delete the previous one
+<<<<<<< HEAD
+Added a new line without doing a pull
+=======
 Trying another branch push
+<<<<<<< HEAD
 Trying for merge
